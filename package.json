@@ -2,7 +2,6 @@
   "name": "MC-Clicky",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://thePalad1n.github.io/MC-Clicky",
   "dependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
@@ -18,5 +17,6 @@
   },
   "devDependencies": {
     "gh-pages": "^1.1.0"
-  }
+  },
+    "homepage": "http://thePalad1n.github.io/MC-Clicky"
 }
