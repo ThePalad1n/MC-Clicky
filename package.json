@@ -1,8 +1,8 @@
 {
   "name": "MC-Clicky",
   "version": "0.1.0",
-  "private": false,
-  "homepage": "https://thePalad1n.github.io/MC-Clicky/public/index.html",
+  "private": true,
+  "homepage": "http://thePalad1n.github.io/MC-Clicky",
   "dependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
