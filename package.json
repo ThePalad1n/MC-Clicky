@@ -1,7 +1,7 @@
 {
   "name": "clickygame",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://thePalad1n.github.io/MC-Clicky/public/index.html",
   "dependencies": {
     "react": "^16.2.0",
